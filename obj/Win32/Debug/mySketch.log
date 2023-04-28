@@ -1,0 +1,10 @@
+﻿  main.cpp
+  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  svgtiny.lib(svgtiny.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library bin\mySketch_debug.lib and object bin\mySketch_debug.exp
+  Generating code
+  Finished generating code
+  mySketch.vcxproj -> C:\Users\Chad Waxler\Desktop\Personal Documents\Repositories\openFrameworks\mySketch\bin\mySketch_debug.exe

@@ -1,0 +1,21 @@
+﻿  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+c:\users\chad waxler\downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chad waxler\downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chad waxler\downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chad waxler\downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chad waxler\downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\chad waxler\downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  svgtiny.lib(svgtiny.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library bin\mySketch_debug.lib and object bin\mySketch_debug.exp
+  Generating code
+  Finished generating code
+  mySketch.vcxproj -> C:\Users\Chad Waxler\Desktop\Personal Documents\Repositories\openFrameworks\mySketch\bin\mySketch_debug.exe
+  
+  	                   2	C:\Users\Chad Waxler\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\x64\
+  	  *EXTRA File 		 6942208	C:\Users\Chad Waxler\Desktop\Personal Documents\Repositories\openFrameworks\mySketch\bin\FreeImage.dll
+  
+  	                   1	C:\Users\Chad Waxler\Downloads\of_v0.11.2_vs2017_release\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1826304	C:\Users\Chad Waxler\Desktop\Personal Documents\Repositories\openFrameworks\mySketch\bin\fmod.dll
+  	  *EXTRA File 		 2041856	C:\Users\Chad Waxler\Desktop\Personal Documents\Repositories\openFrameworks\mySketch\bin\fmodL.dll
